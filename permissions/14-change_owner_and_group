@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -R Vincent:staff permissions/*
+chown -R vincent:staff permissions/*
